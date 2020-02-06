@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">MovieBuff</string>
+    <string-array name="sort_by_array">
+        <item>Popularity(Desc)</item>
+        <item>Popularity(Asc)</item>
+        <item>Release Date(Desc)</item>
+        <item>Release Date(Asc)</item>
+    </string-array>
+
+    <string name="title_activity_splash_screen">splash_screen</string>
+    <string name="dummy_button">Dummy Button</string>
+    <string name="dummy_content">DUMMY\nCONTENT</string>
+</resources>
